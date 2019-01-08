@@ -1,0 +1,3 @@
+github "xmartlabs/Eureka" == 4.3.0
+github "GEOSwift/GEOSwift" ~> 3.0.0
+github "ariok/BWWalkthrough"

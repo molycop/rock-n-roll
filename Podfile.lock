@@ -1,0 +1,45 @@
+PODS:
+  - BWWalkthrough (3.0.0)
+  - Crashlytics (3.11.0):
+    - Fabric (~> 1.8.0)
+  - Eureka (4.3.0)
+  - Fabric (1.8.0)
+  - geos (3.7.0)
+  - GEOSwift (3.0.0):
+    - geos (= 3.7.0)
+  - SwiftLint (0.27.0)
+  - TPPDF (1.3.0):
+    - SwiftLint
+
+DEPENDENCIES:
+  - BWWalkthrough
+  - Crashlytics (~> 3.11)
+  - Eureka (= 4.3.0)
+  - Fabric
+  - GEOSwift (= 3.0.0)
+  - TPPDF
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BWWalkthrough
+    - Crashlytics
+    - Eureka
+    - Fabric
+    - geos
+    - GEOSwift
+    - SwiftLint
+    - TPPDF
+
+SPEC CHECKSUMS:
+  BWWalkthrough: b86abce6aa2e4ce21e36a12a277fa6e89a5db075
+  Crashlytics: 1448070c1d2731ab71ea7c3faf84ac0f69657287
+  Eureka: 6d711cb30ca333b4bc893110285a722ae3840114
+  Fabric: 4ac1cdfef3004ccd83ce0959b91eda8a6e37df72
+  geos: de7d149482a5798a4b5cfda2f0dbabd5a23f2591
+  GEOSwift: 0e7ce382fd678b554f758b1320c24f913b875abc
+  SwiftLint: 3207c1faa2240bf8973b191820a116113cd11073
+  TPPDF: 10c1e16147764c5cc35c25c2ca14869bc069b728
+
+PODFILE CHECKSUM: 2c817bf661d8b29f81962c06beda0278820b5a34
+
+COCOAPODS: 1.5.3
