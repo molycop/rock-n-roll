@@ -1,0 +1,57 @@
+
+App Thinning Size Report for All Variants of Rock&Roll
+
+Variant: Rock&Roll-127D21B0-3592-496C-9EEC-76EFC1811BD1.ipa
+Supported variant descriptors: [device: iPad7,1, os-version: 12], [device: iPad7,2, os-version: 12], [device: iPad6,3, os-version: 12], [device: iPad7,4, os-version: 12], [device: iPad6,4, os-version: 12], and [device: iPad7,3, os-version: 12]
+App + On Demand Resources size: 5.9 MB compressed, 13.8 MB uncompressed
+App size: 5.9 MB compressed, 13.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Rock&Roll-1BC92745-3D64-46D1-A430-AE8F564DFDE8.ipa
+Supported variant descriptors: [device: iPhone11,6, os-version: 12], [device: iPhone9,4, os-version: 12], [device: iPhone10,2, os-version: 12], [device: iPhone9,2, os-version: 12], [device: iPhone10,5, os-version: 12], [device: iPhone10,3, os-version: 12], [device: iPhone10,6, os-version: 12], [device: iPhone11,4, os-version: 12], and [device: iPhone11,2, os-version: 12]
+App + On Demand Resources size: 5.9 MB compressed, 13.8 MB uncompressed
+App size: 5.9 MB compressed, 13.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Rock&Roll-7F930EA2-352E-4F54-B07F-95915BFE1B6D.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 12], [device: iPod7,1, os-version: 12], [device: iPhone7,2, os-version: 12], [device: iPhone6,1, os-version: 12], [device: iPhone6,2, os-version: 12], and [device: iPhone8,1, os-version: 12]
+App + On Demand Resources size: 5.9 MB compressed, 13.8 MB uncompressed
+App size: 5.9 MB compressed, 13.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Rock&Roll-B14FC151-AA31-4F8C-AB8B-504248BD1B3D.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 12], [device: iPhone10,4, os-version: 12], [device: iPhone9,7, os-version: 10], [device: iPhone9,9, os-version: 10], [device: iPhone9,1, os-version: 12], [device: iPhone9,3, os-version: 12], and [device: iPhone9,8, os-version: 10]
+App + On Demand Resources size: 5.9 MB compressed, 13.8 MB uncompressed
+App size: 5.9 MB compressed, 13.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Rock&Roll-B789E70A-FDDD-4B6B-9B47-BA9836DBB8C3.ipa
+Supported variant descriptors: [device: iPad5,3, os-version: 12], [device: iPad4,6, os-version: 12], [device: iPad5,4, os-version: 12], [device: iPad6,12, os-version: 12], [device: iPad4,3, os-version: 12], [device: iPad4,7, os-version: 12], [device: iPad4,5, os-version: 12], [device: iPad6,7, os-version: 12], [device: iPad4,2, os-version: 12], [device: iPad4,8, os-version: 12], [device: iPad6,8, os-version: 12], [device: iPad4,4, os-version: 12], [device: iPad4,9, os-version: 12], [device: iPad6,11, os-version: 12], [device: iPad4,1, os-version: 12], [device: iPad7,5, os-version: 12], [device: iPad7,6, os-version: 12], [device: iPad5,1, os-version: 12], and [device: iPad5,2, os-version: 12]
+App + On Demand Resources size: 5.9 MB compressed, 13.8 MB uncompressed
+App size: 5.9 MB compressed, 13.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Rock&Roll-ECC9AC82-C3B0-4C5F-93F8-88B0384B5414.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12] and [device: iPhone7,1, os-version: 12]
+App + On Demand Resources size: 5.9 MB compressed, 13.8 MB uncompressed
+App size: 5.9 MB compressed, 13.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Rock&Roll-FA47885D-4E90-4A33-877C-84C99709BDEC.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12]
+App + On Demand Resources size: 5.9 MB compressed, 13.8 MB uncompressed
+App size: 5.9 MB compressed, 13.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Rock&Roll.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 6.3 MB compressed, 14.2 MB uncompressed
+App size: 6.3 MB compressed, 14.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
