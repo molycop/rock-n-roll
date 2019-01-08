@@ -1,0 +1,9 @@
+{
+  "commitish" : "3.0.0",
+  "iOS" : [
+    {
+      "name" : "BWWalkthrough",
+      "hash" : "de8d2c590998ee1288516f4d72d1d702ffd735c2112153faf20db7b259ba0c5c"
+    }
+  ]
+}
